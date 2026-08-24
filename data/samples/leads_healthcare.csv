@@ -1,0 +1,6 @@
+lead_id,name,email,enquiry_recency_days,appointment_type,urgency_flag
+H1,Arjun Mehta,arjun.mehta@example.com,0,consultation,true
+H2,Kavita Desai,kavita.desai@example.com,7,follow_up,false
+H3,Sameer Khan,sameer.khan@example.com,1,consultation,false
+H4,Divya Pillai,divya.pillai@example.com,14,routine_checkup,false
+H5,Farhan Ali,farhan.ali@example.com,0,consultation,true

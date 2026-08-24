@@ -1,0 +1,6 @@
+lead_id,name,email,enquiry_recency_days,policy_type,income_bracket
+B1,Neha Kulkarni,neha.kulkarni@example.com,2,term_life,high
+B2,Manish Gupta,manish.gupta@example.com,30,motor_insurance,medium
+B3,Ritu Singh,ritu.singh@example.com,5,term_life,medium
+B4,Suresh Menon,suresh.menon@example.com,60,health_insurance,low
+B5,Alok Bansal,alok.bansal@example.com,1,term_life,high

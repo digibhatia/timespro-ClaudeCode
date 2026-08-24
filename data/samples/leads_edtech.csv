@@ -1,0 +1,6 @@
+lead_id,name,email,enquiry_recency_days,course_interest
+E1,Ananya Rao,ananya.rao@example.com,1,Data Science
+E2,Vikram Shah,vikram.shah@example.com,45,
+E3,Priya Nair,priya.nair@example.com,3,MBA
+E4,Rohit Verma,rohit.verma@example.com,,Full Stack Development
+E5,Sneha Iyer,sneha.iyer@example.com,10,Data Science
